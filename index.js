@@ -1,4 +1,4 @@
-var string = "I love you, grandma.";
+/*var string = "I love you, grandma.";
 
 function shout(string){
   return string.toUpperCase();
@@ -26,4 +26,5 @@ function sayHiToGrandma(string){
   else (string=== "I love you, Grandma."){
   return "I love you, too.";
   }
-}
+}*/
+
